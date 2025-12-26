@@ -1,0 +1,15 @@
+
+=== KPI SUMMARY ===
+service_line  days_count  total_incidents  avg_response_min  avg_resolution_min  avg_cs
+   Education           5               58              24.4               320.0    3.94
+      Health           5               63              21.4               302.0    4.06
+
+=== SLA COMPLIANCE ===
+service_line  response_sla_compliance_pct  resolution_sla_compliance_pct
+   Education                         80.0                           80.0
+      Health                         80.0                           60.0
+
+=== OUTLIER DAYS (Response > 120% of SLA) ===
+No outliers found.
+
+Process finished with exit code 0
