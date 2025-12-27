@@ -26,6 +26,11 @@ Analyse performance data to:
 - SLA compliance rate (response & resolution)
 - Simple outlier detection (explainable rules)
 
+## Additional Project: Real-Time KPI Anomaly Detection Framework
+- Built a real-time analytics framework in Python to detect abnormal KPI behaviour.
+- Designed explainable, rule-based anomaly detection using statistical baselines.
+- Structured with AI/ML readiness for future predictive and machine learning models.
+
 ## How To Run (Python)
 1. Install Python 3.10+  
 2. Install dependencies:
